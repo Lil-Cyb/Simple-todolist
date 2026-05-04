@@ -12,7 +12,7 @@ A lightweight task management system designed for efficiency and ease of use.
 * Java Runtime Environment (JRE) 8 or higher.
 
 ## Getting Started
-1. Download the latest executable `.jar` file from the [Releases](https://github.com/your-username/your-repo/releases) page.
+1. Download the latest executable `.jar` file from the [Releases](https://github.com/Lil-Cyb/Simple-todolist/releases/tag/JarFile) page.
 2. Open a terminal or command prompt in the directory where the file is located.
 3. Run the application with the following command:
 
